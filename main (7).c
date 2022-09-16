@@ -1,25 +1,3 @@
-/**
-*@file TeDamas.c
-*@author Arthur Z. & Bruno T. 4323
-*@date 13/10
-*@version 0.1
-*@brief Programa para movimentar peca em tabuleiro de damas
-*
-*
-* Matrizes e ponteiros
-* Objetivo é desenvolver um programa que avalie os movimentos
-* das pecas de um jogo de damas
-*/
-
-/*
-* O codigo abaixo apresenta as funções iniciais de interface
-* exibição do tabuleiro e entrada de coordenadas
-* A tarefa é implementar as funções prototipadas abaixo que
-* analisam o movimento de uma peça dadas as coordenadas iniciais e finais
-* As funções retornam um código de erro definido pelo tipo enumeração ErroMov
-*/
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
